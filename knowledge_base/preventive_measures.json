@@ -1,0 +1,28 @@
+{
+  "preventive_practices": [
+    {
+      "category": "Crop hygiene",
+      "items": [
+        "Remove and destroy infected plant debris after harvest.",
+        "Clean field tools and equipment to reduce disease spread.",
+        "Avoid moving infected plant material between fields."
+      ]
+    },
+    {
+      "category": "Field management",
+      "items": [
+        "Use proper spacing to improve airflow and reduce humidity inside the canopy.",
+        "Avoid excessive nitrogen that can increase lush growth and susceptibility.",
+        "Manage irrigation timing to reduce prolonged leaf wetness."
+      ]
+    },
+    {
+      "category": "Monitoring practices",
+      "items": [
+        "Scout fields regularly during weather conditions favorable for disease.",
+        "Record symptom progression to guide timely interventions.",
+        "Inspect lower leaves and stem bases early in disease development."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "name": "University of California Statewide IPM Program",
+      "url": "https://ipm.ucanr.edu/"
+    },
+    {
+      "name": "FAO Plant Production and Protection",
+      "url": "https://www.fao.org/plant-production-and-protection/en/"
+    },
+    {
+      "name": "CABI Plant Health",
+      "url": "https://www.cabi.org/"
+    },
+    {
+      "name": "University of Minnesota Extension",
+      "url": "https://extension.umn.edu/"
+    }
+  ]
+}

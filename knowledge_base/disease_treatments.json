@@ -1,0 +1,1232 @@
+{
+  "diseases": [
+    {
+      "crop": "Apple",
+      "disease": "Apple Scab",
+      "scientific_name": "Venturia inaequalis",
+      "description": "A fungal disease that causes olive-green lesions and scab symptoms on fruit and leaves, often affecting fruit marketability.",
+      "symptoms": [
+        "Dark olive lesions on leaves",
+        "Fruit scab lesions and roughened skin",
+        "Leaf yellowing around lesions",
+        "Leaf drop in severe outbreaks"
+      ],
+      "causes": [
+        "Cool, wet conditions during primary infection periods",
+        "Overwintering inoculum from fallen leaves or infected shoots",
+        "Dense canopies that retain moisture"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "Local verified product guidance for this disease is absent in the current repository and must not be fabricated.",
+          "verified": false,
+          "source": "Verification required"
+        }
+      ],
+      "biological_management": [
+        {
+          "option": "Remove leaf litter and infected fallen material from under trees.",
+          "reason": "Reducing overwintering inoculum lowers disease pressure in the next season.",
+          "verified": true,
+          "source": "Integrated orchard sanitation"
+        },
+        {
+          "option": "Maintain pruning to improve canopy airflow and light penetration.",
+          "reason": "Dryer foliage reduces infection windows and supports orchard health.",
+          "verified": true,
+          "source": "Orchard disease management"
+        }
+      ],
+      "cultural_management": [
+        {
+          "option": "Use resistant or moderately resistant apple varieties when available.",
+          "reason": "Host resistance reduces disease incidence and severity in susceptible orchards.",
+          "verified": true,
+          "source": "Orchard breeding guidance"
+        },
+        {
+          "option": "Avoid wetting fruit and foliage during high-risk infection periods.",
+          "reason": "The pathogen infects under prolonged moisture; reducing wetness lowers risk.",
+          "verified": true,
+          "source": "Disease epidemiology"
+        }
+      ],
+      "preventive_measures": [
+        "Collect and dispose of fallen leaves to reduce inoculum.",
+        "Prune to improve ventilation and sunlight.",
+        "Use disease forecasting when available, especially during wet periods.",
+        "Monitor early leaf symptoms to maintain timely intervention."
+      ],
+      "references": [
+        {
+          "name": "University of California IPM",
+          "url": "https://ipm.ucanr.edu"
+        },
+        {
+          "name": "Michigan State University Extension",
+          "url": "https://www.canr.msu.edu"
+        }
+      ]
+    },
+    {
+      "crop": "Apple",
+      "disease": "Black Rot",
+      "scientific_name": "Botryosphaeria obtusa",
+      "description": "A fungal disease affecting apple leaves, fruit and woody tissues.",
+      "symptoms": [
+        "Purple-bordered leaf spots with tan centres",
+        "Brown fruit rot; fruit may become mummified",
+        "Sunken or cracked branch cankers"
+      ],
+      "causes": [
+        "Infection by Botryosphaeria obtusa",
+        "The pathogen can persist in mummified fruit and infected wood"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Apple black rot"
+        }
+      ],
+      "preventive_measures": [
+        "Remove mummified fruit and infected prunings where practical.",
+        "Inspect branches for cankers during routine orchard monitoring."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Apple black rot",
+          "url": "https://apps.extension.umn.edu/garden/diagnose/plant/fruit/apple/leavesspots.html"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Apple",
+      "disease": "Cedar Apple Rust",
+      "scientific_name": "Gymnosporangium juniperi-virginianae",
+      "description": "A rust disease of apple that alternates between apple-family hosts and junipers.",
+      "symptoms": [
+        "Yellow leaf spots that turn bright orange-red",
+        "Small dark dots in mature spots",
+        "Occasional rough green-brown fruit spots"
+      ],
+      "causes": [
+        "Infection by Gymnosporangium juniperi-virginianae",
+        "The pathogen requires alternate juniper hosts to complete its life cycle"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Cedar-apple rust"
+        }
+      ],
+      "preventive_measures": [
+        "Monitor leaves for yellow-to-orange rust spots.",
+        "Seek local orchard guidance about nearby alternate hosts."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Cedar-apple rust",
+          "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/yard-and-garden-problems/cedar-apple-rust"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Cherry (including sour)",
+      "disease": "Powdery Mildew",
+      "scientific_name": "Podosphaera clandestina",
+      "description": "A fungal disease that produces powdery growth on susceptible cherry tissues.",
+      "symptoms": [
+        "White powdery growth on leaves or shoots",
+        "Young leaves may curl or become distorted"
+      ],
+      "causes": [
+        "Infection by powdery mildew fungi",
+        "Disease development depends on susceptible growth and favorable environmental conditions"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets"
+        }
+      ],
+      "preventive_measures": [
+        "Inspect new leaves and shoots regularly.",
+        "Maintain suitable canopy airflow."
+      ],
+      "references": [
+        {
+          "name": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets",
+          "url": "https://plantclinic.cornell.edu/factsheets/"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Corn (maize)",
+      "disease": "Cercospora Leaf Spot Gray Leaf Spot",
+      "scientific_name": "Cercospora zeae-maydis",
+      "description": "A fungal foliar disease of maize characterized by elongated rectangular lesions.",
+      "symptoms": [
+        "Long rectangular tan-to-grey leaf lesions",
+        "Lesions have relatively straight parallel edges",
+        "Lesions may merge and blight leaf tissue"
+      ],
+      "causes": [
+        "Infection by Cercospora zeae-maydis",
+        "Infected crop residue and prolonged leaf wetness can contribute to disease"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Corn leaf spot diagnosis"
+        }
+      ],
+      "preventive_measures": [
+        "Scout lower and middle leaves for rectangular lesions.",
+        "Use locally recommended resistant hybrids and crop-residue practices."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Corn leaf spot diagnosis",
+          "url": "https://apps.extension.umn.edu/garden/diagnose/plant/vegetable/corn/leavesspotsstreaks.html"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Corn (maize)",
+      "disease": "Common Rust",
+      "scientific_name": "Puccinia sorghi",
+      "description": "A fungal rust disease of maize that produces orange-brown pustules on leaves.",
+      "symptoms": [
+        "Elongated orange-brown pustules on leaves",
+        "Powdery spores may rub off from pustules",
+        "Heavily affected leaves may yellow and dry"
+      ],
+      "causes": [
+        "Infection by Puccinia sorghi",
+        "Rust spores spread through air currents"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Corn common rust diagnosis"
+        }
+      ],
+      "preventive_measures": [
+        "Monitor leaves for rust pustules.",
+        "Use locally recommended resistant or tolerant hybrids."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Corn common rust diagnosis",
+          "url": "https://apps.extension.umn.edu/garden/diagnose/plant/vegetable/corn/leavesspotsstreaks.html"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Corn (maize)",
+      "disease": "Northern Leaf Blight",
+      "scientific_name": "Exserohilum turcicum",
+      "description": "A fungal foliar disease of maize that produces long cigar-shaped leaf lesions.",
+      "symptoms": [
+        "Long elliptical or cigar-shaped grey-green lesions",
+        "Lesions turn tan as tissue dies",
+        "Lesions may merge and cause extensive leaf blight"
+      ],
+      "causes": [
+        "Infection by Exserohilum turcicum",
+        "The pathogen can persist in infected maize residue"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Northern corn leaf blight diagnosis"
+        }
+      ],
+      "preventive_measures": [
+        "Scout lower leaves and monitor disease progression.",
+        "Use locally adapted resistant hybrids and regional residue-management guidance."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Northern corn leaf blight diagnosis",
+          "url": "https://apps.extension.umn.edu/garden/diagnose/plant/vegetable/corn/leavesspotsstreaks.html"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Grape",
+      "disease": "Black Rot",
+      "scientific_name": "Guignardia bidwellii",
+      "description": "A fungal grape disease that can infect green tissues and cause fruit rot.",
+      "symptoms": [
+        "Reddish-brown circular leaf lesions",
+        "Black fruiting bodies may develop in lesions",
+        "Infected berries shrivel into hard black mummies"
+      ],
+      "causes": [
+        "Infection by Guignardia bidwellii",
+        "The fungus can overwinter in mummified berries and cane lesions"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "Penn State Extension – Grape disease: Black rot"
+        }
+      ],
+      "preventive_measures": [
+        "Remove mummified berries and infected prunings before new growth where practical.",
+        "Improve canopy airflow and monitor clusters during wet periods."
+      ],
+      "references": [
+        {
+          "name": "Penn State Extension – Grape disease: Black rot",
+          "url": "https://extension.psu.edu/grape-disease-black-rot"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Grape",
+      "disease": "Esca (Black Measles)",
+      "scientific_name": "Esca disease complex",
+      "description": "A grapevine trunk disease complex associated with wood-inhabiting fungi.",
+      "symptoms": [
+        "Interveinal leaf discoloration or tiger-stripe patterns",
+        "Necrotic leaf tissue between veins",
+        "Dark measles-like berry symptoms may occur",
+        "Vine decline or dieback"
+      ],
+      "causes": [
+        "Association with a complex of wood-colonizing fungi",
+        "Vine age, wounds and environmental conditions influence symptom development"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets"
+        }
+      ],
+      "preventive_measures": [
+        "Mark symptomatic vines and monitor them.",
+        "Avoid unnecessary large pruning wounds and obtain expert diagnosis."
+      ],
+      "references": [
+        {
+          "name": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets",
+          "url": "https://plantclinic.cornell.edu/factsheets/"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Grape",
+      "disease": "Leaf Blight (Isariopsis Leaf Spot)",
+      "scientific_name": "Pseudocercospora vitis",
+      "description": "A fungal leaf-spot disease of grapevine that can cause necrotic lesions and premature leaf decline.",
+      "symptoms": [
+        "Brown to dark leaf spots that may enlarge",
+        "Lesions may merge into blighted areas",
+        "Severe infection may cause premature leaf drying"
+      ],
+      "causes": [
+        "Fungal infection associated with Pseudocercospora/Isariopsis leaf spot",
+        "Moist conditions and infected debris may contribute to disease development"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets"
+        }
+      ],
+      "preventive_measures": [
+        "Inspect leaves regularly in humid weather.",
+        "Remove fallen infected leaves where practical and maintain canopy airflow."
+      ],
+      "references": [
+        {
+          "name": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets",
+          "url": "https://plantclinic.cornell.edu/factsheets/"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Orange",
+      "disease": "Huanglongbing (Citrus greening)",
+      "scientific_name": "Candidatus Liberibacter asiaticus",
+      "description": "A serious bacterial citrus disease transmitted by the Asian citrus psyllid. There is no established cure for infected trees.",
+      "symptoms": [
+        "Asymmetrical blotchy yellow-green leaf mottling",
+        "Yellow shoots and sparse foliage",
+        "Small, lopsided fruit with abnormal colour development",
+        "Fruit drop and tree decline"
+      ],
+      "causes": [
+        "Infection by Candidatus Liberibacter species",
+        "The Asian citrus psyllid can transmit the bacterium",
+        "Infected planting material can contribute to spread"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "UC Statewide IPM – Huanglongbing"
+        }
+      ],
+      "preventive_measures": [
+        "Treat this model output as a screening result, not confirmation; seek laboratory or plant-health authority diagnosis.",
+        "Use certified disease-free planting material.",
+        "Monitor for psyllids and follow local plant-quarantine instructions."
+      ],
+      "references": [
+        {
+          "name": "UC Statewide IPM – Huanglongbing",
+          "url": "https://ipm.ucanr.edu/agriculture/citrus/huanglongbing/"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Peach",
+      "disease": "Bacterial Spot",
+      "scientific_name": "Xanthomonas arboricola pv. pruni",
+      "description": "A bacterial disease of stone fruit affecting leaves, twigs and fruit.",
+      "symptoms": [
+        "Small water-soaked leaf spots that become dark or angular",
+        "Yellowing around leaf lesions and possible shot-hole symptoms",
+        "Sunken or cracked fruit spots",
+        "Twig lesions may occur"
+      ],
+      "causes": [
+        "Infection by Xanthomonas arboricola pv. pruni",
+        "Rain splash and prolonged wetness can favor spread"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets"
+        }
+      ],
+      "preventive_measures": [
+        "Use healthy nursery stock and locally recommended cultivars.",
+        "Avoid unnecessary overhead irrigation and prolonged foliage wetness.",
+        "Seek local diagnostic confirmation."
+      ],
+      "references": [
+        {
+          "name": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets",
+          "url": "https://plantclinic.cornell.edu/factsheets/"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Pepper, bell",
+      "disease": "Bacterial Spot",
+      "scientific_name": "Xanthomonas species complex",
+      "description": "A bacterial disease of pepper that causes leaf and fruit lesions.",
+      "symptoms": [
+        "Small water-soaked leaf spots becoming dark brown",
+        "Lesions may have yellow halos",
+        "Severe infection may cause defoliation",
+        "Raised or scabby fruit lesions"
+      ],
+      "causes": [
+        "Infection by bacterial spot-associated Xanthomonas species",
+        "Splashing water and handling wet plants can spread bacteria",
+        "Contaminated seed or transplants may introduce infection"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets"
+        }
+      ],
+      "preventive_measures": [
+        "Use certified disease-free seed and transplants.",
+        "Avoid handling plants when foliage is wet.",
+        "Remove infected debris and clean tools."
+      ],
+      "references": [
+        {
+          "name": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets",
+          "url": "https://plantclinic.cornell.edu/factsheets/"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Potato",
+      "disease": "Early Blight",
+      "scientific_name": "Alternaria solani",
+      "description": "A fungal disease of potato that causes target-like leaf lesions and can also affect stems and tubers.",
+      "symptoms": [
+        "Round brown leaf spots with concentric target-like rings",
+        "Yellowing around leaf lesions",
+        "Dark, slightly sunken stem lesions",
+        "Dark sunken tuber spots with dry corky tissue beneath"
+      ],
+      "causes": [
+        "Infection by Alternaria solani",
+        "The pathogen can persist in infected crop debris",
+        "Warm and humid conditions can favor disease development"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Early blight in tomato and potato"
+        }
+      ],
+      "preventive_measures": [
+        "Scout older lower leaves for brown target-like lesions.",
+        "Remove infected crop debris where practical.",
+        "Use healthy seed tubers and follow locally recommended crop rotation.",
+        "Maintain appropriate plant spacing and avoid prolonged leaf wetness."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Early blight in tomato and potato",
+          "url": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/early-blight-in-tomato-and-potato"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Potato",
+      "disease": "Late Blight",
+      "scientific_name": "Phytophthora infestans",
+      "description": "A highly destructive foliar disease that can spread rapidly under cool, moist weather and cause significant yield loss.",
+      "symptoms": [
+        "Water-soaked lesions on leaves",
+        "Rapid blighting under cool, humid conditions",
+        "White sporangia on undersides of leaves",
+        "Stem and tuber infection in severe cases"
+      ],
+      "causes": [
+        "Moist, cool weather supports rapid sporulation",
+        "Infected seed tubers or nearby volunteer plants may start the epidemic",
+        "Poor air circulation favors disease spread"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "This project does not include a verified local registration record or official product label reference. Chemical recommendations are intentionally withheld to avoid unsafe or unsupported guidance.",
+          "verified": false,
+          "source": "Intentionally omitted due to verification requirement"
+        }
+      ],
+      "biological_management": [
+        {
+          "option": "Use sanitation and removal of infected volunteer plants.",
+          "reason": "Reducing inoculum sources lowers disease pressure early in the season.",
+          "verified": true,
+          "source": "Integrated disease management guidance"
+        },
+        {
+          "option": "Avoid prolonged leaf wetness with irrigation management.",
+          "reason": "Late blight spreads rapidly when foliage stays wet for extended periods.",
+          "verified": true,
+          "source": "Crop protection best practices"
+        }
+      ],
+      "cultural_management": [
+        {
+          "option": "Use resistant varieties whenever locally available.",
+          "reason": "Host resistance lowers epidemic development and reduces risk under moderate pressure.",
+          "verified": true,
+          "source": "Variety selection guidance"
+        },
+        {
+          "option": "Maintain spacing and canopy ventilation.",
+          "reason": "Improved airflow dries foliage more quickly and reduces favorable conditions for the pathogen.",
+          "verified": true,
+          "source": "Field management practice"
+        }
+      ],
+      "preventive_measures": [
+        "Avoid planting infected or suspect seed tubers.",
+        "Schedule irrigation to reduce overnight moisture on leaves.",
+        "Monitor weather and scout regularly during cool, wet periods.",
+        "Destroy volunteer potato plants and cull infected crop debris."
+      ],
+      "references": [
+        {
+          "name": "FAO Crop Production and Protection",
+          "url": "https://www.fao.org"
+        },
+        {
+          "name": "CABI Plant Health",
+          "url": "https://www.cabi.org"
+        }
+      ]
+    },
+    {
+      "crop": "Squash",
+      "disease": "Powdery Mildew",
+      "scientific_name": "Podosphaera xanthii",
+      "description": "A fungal cucurbit disease producing white to grey powdery growth on leaves.",
+      "symptoms": [
+        "Pale yellow spots on older leaves",
+        "White to grey powdery patches",
+        "Severe infection may cause leaves and vines to wither"
+      ],
+      "causes": [
+        "Infection by powdery mildew fungi such as Podosphaera xanthii",
+        "Airborne spores spread the disease"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Squash powdery mildew diagnosis"
+        }
+      ],
+      "preventive_measures": [
+        "Inspect older leaves for powdery patches.",
+        "Provide suitable plant spacing and airflow.",
+        "Use resistant varieties where locally available."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Squash powdery mildew diagnosis",
+          "url": "https://apps.extension.umn.edu/garden/diagnose/plant/vegetable/summersquash/leavesdiscolored.html"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Strawberry",
+      "disease": "Leaf Scorch",
+      "scientific_name": "Diplocarpon earlianum",
+      "description": "A fungal strawberry leaf disease that produces small spots and can cause leaf tissue to dry.",
+      "symptoms": [
+        "Small dark purple or reddish-brown leaf spots",
+        "Spots may enlarge and merge",
+        "Affected leaves may appear scorched and dry"
+      ],
+      "causes": [
+        "Infection by Diplocarpon earlianum",
+        "The pathogen can persist in infected plant debris"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets"
+        }
+      ],
+      "preventive_measures": [
+        "Remove old infected leaves and debris where practical.",
+        "Maintain adequate spacing and airflow.",
+        "Use healthy planting material."
+      ],
+      "references": [
+        {
+          "name": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets",
+          "url": "https://plantclinic.cornell.edu/factsheets/"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Tomato",
+      "disease": "Bacterial Spot",
+      "scientific_name": "Xanthomonas species complex",
+      "description": "A bacterial disease of tomato causing leaf, stem and fruit lesions.",
+      "symptoms": [
+        "Small dark water-soaked leaf spots",
+        "Leaf lesions may develop yellow halos",
+        "Severe infection can cause leaf drop",
+        "Raised or scabby fruit spots"
+      ],
+      "causes": [
+        "Infection by bacterial spot-associated Xanthomonas species",
+        "Splashing water and contaminated seed or transplants can spread infection"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Vegetable disease management"
+        }
+      ],
+      "preventive_measures": [
+        "Use certified disease-free seed and transplants.",
+        "Avoid working among plants when foliage is wet.",
+        "Remove infected debris and clean tools."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Vegetable disease management",
+          "url": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Tomato",
+      "disease": "Early Blight",
+      "scientific_name": "Alternaria solani",
+      "description": "A common foliar disease that causes ring-like lesions and blight on older leaves, often reducing plant vigor and fruit quality.",
+      "symptoms": [
+        "Target-like lesions with concentric rings on lower leaves",
+        "Yellowing around leaf spots",
+        "Leaf drop under severe disease pressure",
+        "Fruit quality loss when disease persists"
+      ],
+      "causes": [
+        "Fungal infection favored by warm, humid conditions",
+        "Crop debris and volunteer plants can carry the pathogen",
+        "Dense foliage and poor air movement increase risk"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "The local knowledge base does not contain a verified product record or official label reference for this disease. The system must not invent a treatment recommendation.",
+          "verified": false,
+          "source": "This is a demonstration-only informational record."
+        }
+      ],
+      "biological_management": [
+        {
+          "option": "Use crop residue removal and sanitation to reduce inoculum carryover.",
+          "reason": "Lowering pathogen survival between seasons reduces early disease pressure in tomato crops.",
+          "verified": true,
+          "source": "General plant pathology guidance"
+        },
+        {
+          "option": "Improve airflow within the canopy and avoid overhead irrigation.",
+          "reason": "Reducing leaf wetness slows fungal growth and lowers disease spread.",
+          "verified": true,
+          "source": "General agronomic practice"
+        }
+      ],
+      "cultural_management": [
+        {
+          "option": "Rotate away from susceptible solanaceous crops when practical.",
+          "reason": "Rotation breaks the disease cycle and lowers pathogen pressure in the field.",
+          "verified": true,
+          "source": "Agronomic extension guidance"
+        },
+        {
+          "option": "Monitor the lower canopy early and remove heavily infected leaves.",
+          "reason": "Early management reduces the rate of secondary spread and protects healthy foliage.",
+          "verified": true,
+          "source": "Field scouting practice"
+        }
+      ],
+      "preventive_measures": [
+        "Remove infected leaf debris after harvest.",
+        "Avoid excess nitrogen that promotes dense foliage.",
+        "Keep field spacing adequate for ventilation.",
+        "Scout weekly during warm, humid periods."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension",
+          "url": "https://extension.umn.edu"
+        },
+        {
+          "name": "Crops and Soils Extension",
+          "url": "https://extension.psu.edu"
+        }
+      ]
+    },
+    {
+      "crop": "Tomato",
+      "disease": "Late Blight",
+      "scientific_name": "Phytophthora infestans",
+      "description": "A destructive oomycete disease that can rapidly blight tomato leaves, stems and fruit.",
+      "symptoms": [
+        "Irregular water-soaked or dark leaf lesions",
+        "Rapid browning and blighting of foliage and stems",
+        "White sporulation may appear under humid conditions",
+        "Firm brown fruit lesions"
+      ],
+      "causes": [
+        "Infection by Phytophthora infestans",
+        "Cool, wet weather favors infection and spread",
+        "Infected transplants or nearby infected hosts can introduce inoculum"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Late blight of tomato and potato"
+        }
+      ],
+      "preventive_measures": [
+        "Use healthy transplants and avoid suspect planting material.",
+        "Scout frequently during cool, wet weather.",
+        "Manage irrigation to avoid prolonged leaf wetness."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Late blight of tomato and potato",
+          "url": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/late-blight"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Tomato",
+      "disease": "Leaf Mold",
+      "scientific_name": "Passalora fulva",
+      "description": "A fungal tomato foliage disease commonly favored by high humidity, especially in protected cultivation.",
+      "symptoms": [
+        "Pale green or yellow patches on upper leaf surfaces",
+        "Olive-green to brown velvety growth on corresponding lower surfaces",
+        "Leaves may curl, wither and die in severe cases"
+      ],
+      "causes": [
+        "Infection by Passalora fulva",
+        "High humidity and prolonged leaf wetness favor disease",
+        "Dense canopies can increase humidity around foliage"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets"
+        }
+      ],
+      "preventive_measures": [
+        "Improve ventilation where possible.",
+        "Avoid prolonged leaf wetness.",
+        "Remove infected lower leaves and crop debris using clean tools."
+      ],
+      "references": [
+        {
+          "name": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets",
+          "url": "https://plantclinic.cornell.edu/factsheets/"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Tomato",
+      "disease": "Septoria Leaf Spot",
+      "scientific_name": "Septoria lycopersici",
+      "description": "A fungal tomato leaf-spot disease that often begins on older lower leaves.",
+      "symptoms": [
+        "Small circular spots with dark margins",
+        "Spots may have grey centres with tiny dark fruiting bodies",
+        "Lower leaves are often affected first",
+        "Severe infection can cause leaf yellowing and drop"
+      ],
+      "causes": [
+        "Infection by Septoria lycopersici",
+        "The pathogen can survive in infected debris",
+        "Rain splash and wet foliage support spread"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Vegetable disease management"
+        }
+      ],
+      "preventive_measures": [
+        "Remove infected lower leaves and crop debris where practical.",
+        "Avoid overhead irrigation where feasible.",
+        "Use crop rotation and adequate plant spacing."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Vegetable disease management",
+          "url": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Tomato",
+      "disease": "Spider Mites Two-spotted Spider Mite",
+      "scientific_name": "Tetranychus urticae",
+      "description": "A plant-feeding mite pest, not a fungal or bacterial disease; feeding damages leaf cells.",
+      "symptoms": [
+        "Fine pale stippling on leaves",
+        "Leaves may become bronzed, yellow or dry",
+        "Fine webbing may be visible in heavier infestations",
+        "Mites may be visible on leaf undersides with magnification"
+      ],
+      "causes": [
+        "Feeding by two-spotted spider mites",
+        "Hot, dry conditions can favor rapid population growth"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Yard and garden insects"
+        }
+      ],
+      "preventive_measures": [
+        "Inspect leaf undersides regularly, especially in hot and dry weather.",
+        "Use magnification to confirm mites before taking action.",
+        "Conserve natural enemies and seek local integrated pest-management advice."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Yard and garden insects",
+          "url": "https://extension.umn.edu/yard-and-garden-insects"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Tomato",
+      "disease": "Target Spot",
+      "scientific_name": "Corynespora cassiicola",
+      "description": "A fungal tomato disease that causes leaf lesions, sometimes with concentric target-like rings.",
+      "symptoms": [
+        "Circular brown leaf spots that may develop concentric rings",
+        "Lesions may enlarge and merge",
+        "Severe infection can cause yellowing and defoliation"
+      ],
+      "causes": [
+        "Infection by Corynespora cassiicola",
+        "Warm, humid conditions and prolonged leaf wetness can favor disease"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets"
+        }
+      ],
+      "preventive_measures": [
+        "Scout leaves for expanding target-like lesions.",
+        "Remove infected plant debris after harvest.",
+        "Maintain canopy airflow and avoid prolonged leaf wetness."
+      ],
+      "references": [
+        {
+          "name": "Cornell University Plant Disease Diagnostic Clinic – Fact sheets",
+          "url": "https://plantclinic.cornell.edu/factsheets/"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Tomato",
+      "disease": "Tomato Mosaic Virus",
+      "scientific_name": "Tomato mosaic virus (ToMV)",
+      "description": "A mechanically transmissible plant virus that can cause mottled foliage and fruit symptoms.",
+      "symptoms": [
+        "Light and dark green mosaic mottling on leaves",
+        "Leaf distortion or reduced leaf size",
+        "Stunted growth may occur",
+        "Uneven fruit ripening or discoloration"
+      ],
+      "causes": [
+        "Infection by Tomato mosaic virus",
+        "The virus can spread through contaminated hands, tools and plant contact",
+        "Infected seed or transplants can introduce the virus"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Tomato viruses"
+        }
+      ],
+      "preventive_measures": [
+        "Use certified virus-free seed and healthy transplants.",
+        "Clean tools and hands using locally recommended sanitation procedures.",
+        "Avoid saving seed from symptomatic plants."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Tomato viruses",
+          "url": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/tomato-viruses"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    },
+    {
+      "crop": "Tomato",
+      "disease": "Tomato Yellow Leaf Curl Virus",
+      "scientific_name": "Tomato yellow leaf curl virus (TYLCV)",
+      "description": "A viral tomato disease transmitted by whiteflies; infected plants can become stunted and produce fewer fruits.",
+      "symptoms": [
+        "Upward curling and yellowing of leaf margins",
+        "Smaller leaves and shortened internodes",
+        "Stunted plant growth",
+        "Reduced fruit set"
+      ],
+      "causes": [
+        "Infection by Tomato yellow leaf curl virus",
+        "The virus is transmitted by infected whiteflies, especially Bemisia tabaci"
+      ],
+      "chemical_management": [
+        {
+          "option": "No verified chemical option is available in the current knowledge base.",
+          "reason": "A disease-specific product label and current local registration have not been verified for this project. Do not infer or apply a pesticide from this prediction.",
+          "verified": false,
+          "source": "Project chemical-recommendation verification requirement."
+        }
+      ],
+      "biological_management": [],
+      "cultural_management": [
+        {
+          "option": "Follow the preventive and crop-care measures listed for this disease.",
+          "reason": "These are general monitoring, sanitation or crop-care measures. Confirm suitability with a local agricultural extension professional.",
+          "verified": false,
+          "source": "University of Minnesota Extension – Tomato viruses"
+        }
+      ],
+      "preventive_measures": [
+        "Use healthy virus-free transplants.",
+        "Monitor whiteflies and follow local integrated pest-management guidance.",
+        "Seek expert confirmation before removing plants."
+      ],
+      "references": [
+        {
+          "name": "University of Minnesota Extension – Tomato viruses",
+          "url": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/tomato-viruses"
+        }
+      ],
+      "explanation": "Informational guidance only. Image classification is not a laboratory diagnosis; verify the disease and local management recommendations with an agricultural expert."
+    }
+  ]
+}
