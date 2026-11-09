@@ -264,6 +264,118 @@ AGROVISION AI is an agricultural decision-support prototype. Model predictions a
 
 ---
 
+
+## 🚀 Getting Started – Run AGROVISION AI Locally
+
+Follow the steps below to download and run AGROVISION AI on your local machine.
+
+### Prerequisites
+
+Make sure you have installed:
+
+- Python 3.11
+- Git
+- pip (Python package manager)
+
+### Step 1: Clone the Repository
+
+Open your terminal or command prompt and execute:
+
+```bash
+git clone https://github.com/chalini99/Capstone.git
+```
+
+### Step 2: Navigate to the Project Directory
+
+```bash
+cd Capstone
+```
+
+### Step 3: Create a Virtual Environment
+
+Create an isolated Python environment for the project:
+
+```bash
+python -m venv .venv
+```
+
+### Step 4: Activate the Virtual Environment
+
+**Windows (PowerShell):**
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+**Windows (Command Prompt):**
+
+```cmd
+.venv\Scripts\activate.bat
+```
+
+**Linux / macOS:**
+
+```bash
+source .venv/bin/activate
+```
+
+### Step 5: Install Required Dependencies
+
+Install all the Python libraries required by the project:
+
+```bash
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### Step 6: Run the Application
+
+Start the Streamlit application:
+
+```bash
+streamlit run app.py
+```
+
+### Step 7: Access the Application
+
+Once the application starts, open the local URL displayed in your terminal. Usually:
+
+```text
+http://localhost:8501
+```
+
+AGROVISION AI will now be accessible through your web browser.
+
+### 📂 Model Checkpoint
+
+The trained EfficientNet-B0 model is included in the repository:
+
+```text
+models/efficientnet_b0_best.pth
+```
+
+Ensure this file remains in the `models` directory so the application can load the trained model.
+
+### 🧪 Running Tests
+
+To execute the project's automated test suite:
+
+```bash
+python -m pytest -v
+```
+
+### ⚠️ Troubleshooting
+
+- **Python not found:** Install Python 3.11 and ensure it is added to your system PATH.
+- **Dependency errors:** Activate the virtual environment and reinstall dependencies using `pip install -r requirements.txt`.
+- **Model loading errors:** Verify that the model checkpoint exists in the `models` directory.
+- **Application startup errors:** Check that all required dependencies are installed and that you are running the command from the project root directory.
+
+### Important Note
+
+AGROVISION AI is an agricultural decision-support prototype. Disease predictions are preliminary screening results and should be verified by qualified agricultural experts. Treatment recommendations must be checked against reliable, locally applicable agricultural guidance.
+
+
 ---
 
 *AGROVISION AI — Bringing Artificial Intelligence into Crop Health Monitoring.*
